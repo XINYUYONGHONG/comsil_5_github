@@ -1,2 +1,6 @@
 2
 
+<<<<<<< HEAD
+=======
+Content for branch2
+>>>>>>> branch2
